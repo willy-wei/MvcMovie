@@ -22,16 +22,16 @@ namespace MvcMovie.Controllers
             return View(db.Movies.ToList());
         }*/
         // 第一次修改建立
-       /* public ActionResult Index(string searchString) {
-            var movies = from m in db.Movies select m;
+        /* public ActionResult Index(string searchString) {
+             var movies = from m in db.Movies select m;
 
-            if (!String.IsNullOrEmpty(searchString)) 
-            {
-                movies = movies.Where(s => s.Title.Contains(searchString));
-            }
+             if (!String.IsNullOrEmpty(searchString)) 
+             {
+                 movies = movies.Where(s => s.Title.Contains(searchString));
+             }
 
-            return View(movies);
-        }*/
+             return View(movies);
+         }*/
 
         //第三次修改
         public ActionResult Index(string movieGenre, string searchString) 

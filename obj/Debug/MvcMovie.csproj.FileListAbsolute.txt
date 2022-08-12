@@ -92,3 +92,6 @@ C:\Users\0210103\source\repos\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.res
 C:\Users\0210103\source\repos\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
 C:\Users\0210103\source\repos\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
 C:\Users\0210103\source\repos\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+C:\Users\0210103\source\repos\MvcMovie\bin\HtmlAgilityPack.dll
+C:\Users\0210103\source\repos\MvcMovie\bin\HtmlAgilityPack.pdb
+C:\Users\0210103\source\repos\MvcMovie\bin\HtmlAgilityPack.xml
